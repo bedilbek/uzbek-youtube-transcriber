@@ -1,6 +1,6 @@
 # Uzbek YouTube Video Transcription (Free and open source)
 
-This repository provides a Google Colab notebook designed to download audio from YouTube videos, process it into a normalized format, and transcribe it into timed Uzbek subtitles (SRT format) using the specialized (BuzzASR/uzbek)[https://huggingface.co/BuzzASR/uzbek] automatic speech recognition model from HuggingFace.
+This repository provides a Google Colab notebook designed to download audio from YouTube videos, process it into a normalized format, and transcribe it into timed Uzbek subtitles (SRT format) using the specialized [BuzzASR/uzbek](https://huggingface.co/BuzzASR/uzbek) automatic speech recognition model from HuggingFace.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedilbek/uzbek-youtube-transcriber/blob/main/youtube_uzbek_subtitles.ipynb)
 
